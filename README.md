@@ -4,5 +4,5 @@ The designs of the board are shared with the educational community with the hope
 
 The board has two public versions up to date:
 
-    - v.1.1
-    - v.1.2
+    - v. 1.1
+    - v. 2.0
